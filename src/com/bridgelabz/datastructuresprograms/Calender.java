@@ -111,6 +111,7 @@ public class Calender
 		}
 
 
+		scanner.close();
 
 	}
 }
