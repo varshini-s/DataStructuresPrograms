@@ -36,7 +36,12 @@ public class BalancedParentheses
 			}
 		}
 		
-		
+		if(stack.isEmpty())
+		{
+			return true;
+		}
+		else
+			return false;
 
 
 	}
